@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Code" t="Include">
+          <e p="AA_Miniboss.cs" t="Include" />
+          <e p="Av_Bullet.cs" t="Include" />
+          <e p="Avatar_Control.cs" t="Include" />
+          <e p="Collider2D.cs" t="Include" />
+          <e p="Collider2DIntf.cs" t="Include" />
+          <e p="Danmaku" t="Include">
+            <e p="Action.cs" t="Include" />
+            <e p="Bullet.cs" t="Include" />
+            <e p="BulletPattern.cs" t="Include" />
+            <e p="BulletPatternBuilder.cs" t="Include" />
+            <e p="DanmakuController.cs" t="Include" />
+            <e p="FlyObject.cs" t="Include" />
+            <e p="FlyObjectsController.cs" t="Include" />
+            <e p="Scenario.cs" t="Include" />
+            <e p="Scene.cs" t="Include" />
+            <e p="SceneAction.cs" t="Include" />
+            <e p="SceneActionBuilder.cs" t="Include" />
+            <e p="SceneSetting.cs" t="Include" />
+            <e p="SceneSettings" t="Include">
+              <e p="Stage1Scene0.cs" t="Include" />
+              <e p="Stage1Scene1.cs" t="Include" />
+              <e p="Stage2Boss.cs" t="Include" />
+              <e p="Stage2Scene0.cs" t="Include" />
+              <e p="Stage2Scene1.cs" t="Include" />
+              <e p="TutorialScene0.cs" t="Include" />
+              <e p="TutorialScene1.cs" t="Include" />
+              <e p="TutorialScene2.cs" t="Include" />
+              <e p="TutorialScene3.cs" t="Include" />
+              <e p="TutorialScene4.cs" t="Include" />
+            </e>
+            <e p="Shooter.cs" t="Include" />
+            <e p="ShooterController.cs" t="Include" />
+            <e p="StageSetting.cs" t="Include" />
+            <e p="StageSettings" t="Include">
+              <e p="Stage1.cs" t="Include" />
+              <e p="Stage2.cs" t="Include" />
+              <e p="TutorialStage.cs" t="Include" />
+            </e>
+            <e p="Trigger.cs" t="Include" />
+            <e p="Triggers" t="Include">
+              <e p="NeverShoots.cs" t="Include" />
+              <e p="ShootEveryEightFrame.cs" t="Include" />
+              <e p="ShootEveryFourFrame.cs" t="Include" />
+              <e p="ShootEveryTwelveFrame.cs" t="Include" />
+              <e p="ShootEveryTwoFrame.cs" t="Include" />
+              <e p="ShootOnceAtFirst.cs" t="Include" />
+            </e>
+            <e p="Utils.cs" t="Include" />
+          </e>
+          <e p="Drone_Att.cs" t="Include" />
+          <e p="HealthItem.cs" t="Include" />
+          <e p="LaserClearer.cs" t="Include" />
+          <e p="Melee.cs" t="Include" />
+          <e p="MenuHandler.cs" t="Include" />
+          <e p="PauseMenu.cs" t="Include" />
+          <e p="Shield.cs" t="Include" />
+          <e p="SpiralForw.cs" t="Include" />
+          <e p="StartMenu.cs" t="Include" />
+          <e p="UIManager.cs" t="Include" />
+          <e p="WaveBeam.cs" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="Melon SHMUP.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp/bin" t="ExcludeRecursive" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_Melon SHMUP.-1877787539.00" t="ExcludeRecursive" />
+  </component>
+  <component name="RiderRiderContentModelStore">
+    <excludedPaths />
+  </component>
+</project>

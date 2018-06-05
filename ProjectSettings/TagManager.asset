@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Avatar
+  - roBul
+  - sciBul
+  - paBul
+  - roEn
+  - sciEn
+  - paEn
+  - healthslide
+  - energyslide
+  - Healthbar
+  - Energybar
+  - Heatbar
+  - skewR
+  - skewL
+  - sideR
+  - sideL
+  - Score
+  - Boom
+  - Background
+  - SpireFore
+  - paSh
+  - roSh
+  - sciSh
+  - EnemyHealth
+  - powTime
+  - wavLeft
+  - sfx
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy bullets
+  - Avatar bullets
+  - Enemies
+  - Avatar
+  - Item
+  - Power
+  - Special_Atk
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
